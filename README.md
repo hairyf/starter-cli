@@ -26,7 +26,7 @@ Then for the future releases, you can run `pnpm run release` to do the release a
 
 ## License
 
-[MIT](./LICENSE) License © [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © [Hairyf](https://github.com/hairyf)
 
 <!-- Badges -->
 
